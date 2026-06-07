@@ -1,6 +1,6 @@
 # 🚦 Meus Projetos de Arduino - SENAI Itatiba
 
-Este repositório contém os projetos desenvolvidos durante o curso de **Arduino** no **SENAI Itatiba**, combinando lógica de programação em C com eletrônica aplicada.
+Este repositório contém os projetos desenvolvidos durante o curso de **Programação e Interação da Plataforma Arduino** no **SENAI Itatiba**, combinando lógica de programação em C com eletrônica aplicada.
 
 ---
 
